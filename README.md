@@ -4,7 +4,7 @@
 
 - This script fetches geolocation information about an IP address using APIs. It provides details such as the country, city, region, timezone, and more. The input/output is displayed in a visually appealing bright bold white color for better readability.
 
-# 🚀 Features 
+## 🚀 Features 
 1. Fetches public IP address automatically.
 2. Provides geolocation details of any IP address.
 3. Bright bold white formatting for input/output.
@@ -12,7 +12,7 @@
 5. Typewriter animation for a smooth output experience.
 6. Displays Google Maps link for the geolocation.
 
-# ⚙️📦 Required Dependencies:
+## ⚙️📦 Required Dependencies:
 - Install the cURL library:
 ```bash
 sudo apt-get install libcurl4-openssl-dev
@@ -21,7 +21,7 @@ sudo apt-get install libcurl4-openssl-dev
 ```bash
 sudo apt-get install nlohmann-json3-dev
 ```
-# 🛠️ Installation:
+## 🛠️ Installation:
 - Clone the repository to your local machine:
 ```bash
 git clone https://github.com/x4ldr1t89z/IP-Geolocator.git
@@ -30,7 +30,7 @@ git clone https://github.com/x4ldr1t89z/IP-Geolocator.git
 ```bash
 cd IP-Geolocator
 ```
-# 🛡️ Compilation Instructions:
+## 🛡️ Compilation Instructions:
 ```bash
 g++ ipGeolocator.cpp asciiArt.cpp -o outputfile -lcurl
 ```
@@ -38,7 +38,7 @@ g++ ipGeolocator.cpp asciiArt.cpp -o outputfile -lcurl
 ```bash
 ./outputfile
 ```
-# 🖼️ Expected Output:
+## 🖼️ Expected Output:
 - When prompted:
 ```bash
 Do you want to use your public IP address (y/n)?
@@ -59,7 +59,7 @@ Do you want to use your public IP address (y/n)?
 - [cURL](https://curl.se/): For making HTTP requests.
 
 
-# 🤝 Contributing:
+## 🤝 Contributing:
 - Contributions are welcome! If you find a bug or have a suggestion, feel free to open an issue or create a pull request.
 - For any queries, mail at: alishbaabdulstealth@gmail.com
  
