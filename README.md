@@ -1,6 +1,6 @@
 # 📍 IP-Geolocator 🌍
 
-![Alt Text](https://github.com/x4ldr1t89z/IP-Geolocator/blob/main/image.png)
+![Alt Text](https://github.com/NeoOverride/IP-Geolocator/blob/main/image.png)
 
 - This script fetches geolocation information about an IP address using APIs. It provides details such as the country, city, region, timezone, and more. The input/output is displayed in a visually appealing bright bold white color for better readability.
 
@@ -24,7 +24,7 @@ sudo apt-get install nlohmann-json3-dev
 ## 🛠️ Installation:
 - Clone the repository to your local machine:
 ```bash
-https://github.com/NeoOverride-0x1F4/IP-Geolocator.git
+https://github.com/NeoOverride/IP-Geolocator.git
 ```
 - Navigate into the project directory:
 ```bash
