@@ -24,7 +24,7 @@ sudo apt-get install nlohmann-json3-dev
 ## 🛠️ Installation:
 - Clone the repository to your local machine:
 ```bash
-https://github.com/NeoOverride/IP-Geolocator.git
+https://github.com/lainwiredcomputer/IP-Geolocator.git
 ```
 - Navigate into the project directory:
 ```bash
