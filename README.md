@@ -60,6 +60,4 @@ Do you want to use your public IP address (y/n)?
 
 
 ## 🤝 Contributing:
-- Contributions are welcome! If you find a bug or have a suggestion, feel free to open an issue or create a pull request.
-- For any queries, mail at: alishbaabdulstealth@gmail.com
- 
+Contributions are welcome! If you find a bug or have a suggestion, feel free to open an issue or create a pull request.
